@@ -5,4 +5,6 @@ This is me documenting my journey in self-studying computer vision. At UC Rivers
 ### Image processing (currently)
 Learned about image manipulation by point operations. 
 
-Since using point operations uses a pbm image file and uncompressing an image is a difficult process, I plan on using stb_image.
+Used ppm image files first since it is easier to trace through all the files.
+
+Used stb_image since uncompressing a png/jpg/... is a difficult process.
