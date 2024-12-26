@@ -5,6 +5,6 @@ This is me documenting my journey in self-studying computer vision. At UC Rivers
 ### Image processing (currently)
 Learned about image manipulation by point operations. 
 
-Used ppm image files first since it is easier to trace through all the files.
+Used ppm image files first since it is easier to trace through all the pixels.
 
 Used stb_image since uncompressing a png/jpg/... is a difficult process.
